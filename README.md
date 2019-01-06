@@ -13,7 +13,7 @@ $ git clone git@gitlab.na.nccgroup.com:mimoo/unicornator.git
 $ go build
 ```
 
-or download the relevant binary [here](binaries/) which are moderately up to date (but feel free to ask me if you need an up to date binary!).
+or download the relevant binary [here](https://github.com/mimoo/unicornator/releases/tag/0.1.0) which are moderately up to date (but feel free to ask me if you need an up to date binary!).
 
 After that just run it:
 
