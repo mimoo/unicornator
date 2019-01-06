@@ -1,0 +1,7 @@
+#include shit
+
+
+int main(){
+		int a = gcry_mpi_invm (gcry_mpi_t x, gcry_mpi_t a, gcry_mpi_t m)
+
+}
