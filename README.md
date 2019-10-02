@@ -9,7 +9,7 @@ A tool to check source code for cryptographic pitfalls.
 You can either get & build the tool yourself:
 
 ```
-$ git clone git@gitlab.na.nccgroup.com:mimoo/unicornator.git
+$ git clone https://github.com/mimoo/unicornator.git
 $ go build
 ```
 
